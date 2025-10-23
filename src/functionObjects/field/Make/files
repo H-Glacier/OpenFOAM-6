@@ -64,6 +64,8 @@ fieldsExpression/fieldsExpression.C
 add/add.C
 subtract/subtract.C
 
+flameIndex/flameIndex.C
+
 interfaceHeight/interfaceHeight.C
 
 LIB = $(FOAM_LIBBIN)/libfieldFunctionObjects
